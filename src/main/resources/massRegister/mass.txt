@@ -1,0 +1,3 @@
+Név;Irányítószám;Életkor;E-mail cím;TAJ szám
+John Doe;2061;60;john.doe@example.com;1234567890
+Jane Doe;2091;40;jane.doe@example.com;1234567881
